@@ -18,9 +18,8 @@ Challenge ONE Back End - Java
 <h4>Video: </h4>
   <div>
 <p style = 'text-align:center;'>
-  [![Alt text](https://img.youtube.com/vi/ofqkzqlzjZQ/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ofqkzqlzjZQ)
-<iframe width="600" height = "420"
-src="https://youtu.be/ofqkzqlzjZQ">
+<iframe width='600' height ='420'
+src='https://youtu.be/ofqkzqlzjZQ'>
 </iframe>
 </div>
 </p>
