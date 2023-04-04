@@ -19,9 +19,7 @@ Challenge ONE Back End - Java
 [![Alt text](https://img.youtube.com/vi/https://youtu.be/ofqkzqlzjZQ/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ofqkzqlzjZQ)
 <div>
 <p style = 'text-align:center;'>
-<iframe width='600' height ='420'
-src="https://youtu.be/ofqkzqlzjZQ">
-</iframe>
+<a hef="https://youtu.be/ofqkzqlzjZQ">Ver video en Youtube</a>
 </div>
 </p>
 
