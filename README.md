@@ -1,9 +1,8 @@
 # conversor
 Challenge ONE Back End - Java
 <h1 align="center"> Challenge ONE Back End - Java: Conversor  </h1>
-</br></br>
 <div>
-![logo-conversor](https://user-images.githubusercontent.com/119954790/226741214-709b52c1-6bf0-4db9-b6da-ee7535ee0dc9.png)
+![logo-conversor]()
 </div>
 <h4>Descripción del Proyecto: <h4><p>Se trata de un desarrollo en JAVA con la finalidad de crear un conversor de monedas (del tipo de cambio monedas internacionales dadas, a la moneda de curso legal nacional del desarrollador). Como extra se agraga la funcionalidad de obetener el tipo de cambio actual, realizando la técnica de Scraping de las webs que publican las cotizaciones de las monedas. Otro extra es el agregado del desarrollo de dos conversores más: uno de temperaturas y otro de medidas de longitud.</p>
 <h4>Estado del proyecto:</h4> <p>Concluído - ha sido testeado y funciona correctamente.</p><br>
