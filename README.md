@@ -16,7 +16,8 @@ Challenge ONE Back End - Java
 <div><p style = 'text-align:center;'><img src="https://github.com/EduardoCecchini/conversor/blob/main/Conversor/10.png?format=jpg&name=small" alt="JuveYell" width="300px">
 </p></div>
 <h4>Video: </h4>
-  <div>
+[![Alt text](https://img.youtube.com/vi/https://youtu.be/ofqkzqlzjZQ/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/ofqkzqlzjZQ)
+<div>
 <p style = 'text-align:center;'>
 <iframe width='600' height ='420'
 src="https://youtu.be/ofqkzqlzjZQ">
