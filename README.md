@@ -9,7 +9,7 @@ Challenge ONE Back End - Java
 <h4>Capturas: </h4>
 <div>
 <p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<img src="C:\Users\Eduardo\Desktop\capturas_conversor?format=jpg&name=small" alt="JuveYell" width="300px">
 </p>
 </div>
 <h4>Video: </h4>
