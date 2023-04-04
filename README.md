@@ -12,7 +12,8 @@ Challenge ONE Back End - Java
 <img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
 </p>
 </div>
-<div>
+<h4>Video: </h4>
+  <div>
 <p style = 'text-align:center;'>
 <iframe width="600" height = "420"
 src="https://youtu.be/ofqkzqlzjZQ">
