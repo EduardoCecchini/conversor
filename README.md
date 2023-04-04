@@ -12,5 +12,12 @@ Challenge ONE Back End - Java
 <img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
 </p>
 </div>
-  <iframe width="600" height = "420" src="https://youtu.be/ofqkzqlzjZQ"></iframe>
-  <h4>Conclusión:</h4> <p>Ha sido un desafío que ha demandado conocer nuevas tecnologías: como el uso de las librerías Swing para JAVA y Jsoup; además de poder poner a prueba, experimentar y buscar siempre las opciones más viables, con respecto a lo aprendido en el lenguaje de programación, las funcionalidades de JAVA, y la lógica aplicada a la resolución de las necesidad y requerimientos del mismo desafío.</p><br><br>
+<div>
+<p style = 'text-align:center;'>
+<iframe width="600" height = "420"
+src="https://youtu.be/ofqkzqlzjZQ">
+</iframe>
+</div>
+</p>
+
+<h4>Conclusión:</h4> <p>Ha sido un desafío que ha demandado conocer nuevas tecnologías: como el uso de las librerías Swing para JAVA y Jsoup; además de poder poner a prueba, experimentar y buscar siempre las opciones más viables, con respecto a lo aprendido en el lenguaje de programación, las funcionalidades de JAVA, y la lógica aplicada a la resolución de las necesidad y requerimientos del mismo desafío.</p><br><br>
