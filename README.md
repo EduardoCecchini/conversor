@@ -16,6 +16,6 @@ Challenge ONE Back End - Java
 <div><p style = 'text-align:center;'><img src="https://github.com/EduardoCecchini/conversor/blob/main/Conversor/10.png?format=jpg&name=small" alt="imagen_conversor" width="300px">
 </p></div>
 <h4>Video: </h4>
-<div><p style = 'text-align:center;'><a href="https://youtu.be/ofqkzqlzjZQ">Ver video en Youtube</a></div>
+<div><p style = 'text-align:center;'><a href="https://https://youtu.be/VriAbWB0Jic">Ver video en Youtube</a></div>
 </p>
 <h4>Conclusión:</h4> <p>Ha sido un desafío que ha demandado conocer nuevas tecnologías: como el uso de las librerías Swing para JAVA y Jsoup; además de poder poner a prueba, experimentar y buscar siempre las opciones más viables, con respecto a lo aprendido en el lenguaje de programación, las funcionalidades de JAVA, y la lógica aplicada a la resolución de las necesidad y requerimientos del mismo desafío.</p><br><br>
